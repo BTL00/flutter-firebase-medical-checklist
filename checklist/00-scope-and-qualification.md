@@ -1,5 +1,7 @@
 # 00 · Scope, intended use and qualification
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 Everything downstream depends on three answers: what the app is for, whether that makes it a medical device in each market, and how risky it is. Get these written down and signed before you tune a single Firestore rule.
 
 Legend: `[EU]` `[US]` `[ALL]` applicability · `[M]` must · `[S]` should · `[N]` nice to have.

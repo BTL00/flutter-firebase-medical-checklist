@@ -1,5 +1,7 @@
 # 16 · Post-market surveillance, monitoring and continuous compliance
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 After release the obligations get heavier, not lighter: PMS, vigilance, cyber monitoring, complaint handling, PSURs, periodic reviews. This file turns them into a running operation.
 
 ## A. Monitoring sources

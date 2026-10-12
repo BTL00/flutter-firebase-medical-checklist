@@ -1,5 +1,7 @@
 # 04 · Privacy: HIPAA, FTC and US state law
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 Two very different regimes apply depending on who your customer is: HIPAA when you work for a covered entity, FTC and state consumer-health laws when you sell to consumers directly. Many apps are in both.
 
 ## A. Which regime applies

@@ -1,5 +1,7 @@
 # 09 · Data model, minimisation, retention, audit trail
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 How data is shaped decides how hard every later obligation is. Pseudonymise early, keep identifying data out of the clinical store, and make deletion a first-class feature.
 
 ## A. Data inventory and classification

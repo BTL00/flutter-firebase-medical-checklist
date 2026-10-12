@@ -1,5 +1,7 @@
 # 07 · Flutter client (iOS, Android, web)
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 The device is hostile territory: shared phones, rooted devices, screenshots, lock-screen notifications, old OS versions. Every item here is something you can verify in the repo or on a test device.
 
 ## A. Build, toolchain and reproducibility

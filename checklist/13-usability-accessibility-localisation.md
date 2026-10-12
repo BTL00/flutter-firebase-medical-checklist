@@ -1,5 +1,7 @@
 # 13 · Usability, accessibility and localisation
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 Usability is a regulated process (file 05 §G). This file lists the concrete properties the Flutter UI must have, plus accessibility and localisation requirements for selling in many EU countries and in the US.
 
 ## A. Accessibility (WCAG 2.2 AA, EN 301 549, Section 508)

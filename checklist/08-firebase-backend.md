@@ -1,5 +1,7 @@
 # 08 · Firebase and Google Cloud backend
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 Firebase makes a secure backend possible, not automatic. The defaults (open rules in test mode, default service accounts with Editor, US multi-region, analytics on) are wrong for a medical app. Check each service you use against this list, and remove the ones you do not use.
 
 ## A. Project and organisation

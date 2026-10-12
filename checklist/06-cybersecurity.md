@@ -1,5 +1,7 @@
 # 06 · Cybersecurity programme
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 Regulators now treat security as a safety property. Both FDA (§524B, 2023/2025 guidance) and MDR (Annex I §17.2/17.4, MDCG 2019-16) expect a **Secure Product Development Framework**, a threat model, an SBOM, testing evidence and a postmarket vulnerability process. IEC 81001-5-1 is the standard that ties it together. Concrete Flutter and Firebase controls are in files 07–10; this file is the programme around them.
 
 ## A. Secure product development framework (IEC 81001-5-1, FDA SPDF)

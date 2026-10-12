@@ -1,5 +1,7 @@
 # 19 · Organisation, roles, contracts and people
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 Small teams fail audits on roles and contracts more often than on code. This file lists the named responsibilities and agreements a Flutter/Firebase medical product needs in the EU and the US.
 
 ## A. Named roles

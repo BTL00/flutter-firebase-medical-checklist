@@ -1,5 +1,7 @@
 # 14 · Verification and validation
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 Verification: did we build it right (tests against requirements). Validation: did we build the right thing (works for intended users in intended use). Both need plans, records and traceability.
 
 ## A. Planning and traceability

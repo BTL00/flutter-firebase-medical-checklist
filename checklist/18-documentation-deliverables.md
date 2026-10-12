@@ -1,5 +1,7 @@
 # 18 · Documentation deliverables
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 The documents an auditor, Notified Body or FDA reviewer expects to see, with the standard or rule each one satisfies. Tick a document only when it exists, is approved, is at the right version and is traceable to the shipped build.
 
 ## A. Regulatory and quality

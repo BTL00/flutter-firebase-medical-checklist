@@ -1,5 +1,7 @@
 # 15 · Release, DevOps and app stores
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 Shipping a medical app is a controlled process with a paper trail, and the stores add their own health-specific rules. This file covers CI/CD, store compliance and the mechanics of controlled release and rollback.
 
 ## A. CI/CD pipeline

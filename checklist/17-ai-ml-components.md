@@ -1,5 +1,7 @@
 # 17 · AI and machine-learning components
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 Applies to on-device models (TensorFlow Lite / LiteRT, Core ML), cloud models in Cloud Functions or Vertex AI, and third-party LLM APIs (Gemini, OpenAI, Anthropic, local models). Regulators treat a model as software with extra obligations: data governance, performance across subgroups, change control and transparency.
 
 ## A. Inventory and qualification

@@ -1,5 +1,7 @@
 # 02 · US regulatory requirements (FDA)
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 Applies when at least one software function is a device function (see 00). HIPAA, FTC and state privacy laws are in file 04.
 
 ## A. Quality system

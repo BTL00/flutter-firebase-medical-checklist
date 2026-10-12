@@ -1,5 +1,7 @@
 # 12 · Clinical safety, algorithms, alarms and performance
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 The regulator's core question: does the software do what it claims, for whom, and what happens when it does not. This file covers the clinical content of the product; AI-specific items are in file 17.
 
 ## A. Clinical foundation

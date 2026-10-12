@@ -1,5 +1,7 @@
 # 03 · Privacy: GDPR and ePrivacy (EU/EEA)
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 Health data is a special category under Art. 9. A Firebase app touches Google as a processor, US transfers and device identifiers, so this section is long on purpose.
 
 ## A. Roles and lawful basis

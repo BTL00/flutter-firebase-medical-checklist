@@ -1,5 +1,7 @@
 # 10 · Identity, access control and administration
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 Covers the human side of access: users, roles, administrators, support staff, hospitals as tenants, and the tools you use to manage them. Firebase mechanics are in file 08.
 
 ## A. Access model

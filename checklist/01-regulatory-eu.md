@@ -1,5 +1,7 @@
 # 01 · EU regulatory requirements
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 Covers MDR 2017/745 (and IVDR where relevant), the horizontal EU laws that hit a health app, and the national digital-health programmes that decide whether anyone pays for it. GDPR has its own file (03).
 
 ## A. Manufacturer obligations (MDR Art. 10)

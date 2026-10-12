@@ -1,5 +1,7 @@
 # 11 · Interoperability, standards and connected devices
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 Hospitals, payers, national platforms and the EHDS all expect FHIR. Sensors and wearables bring their own standards. Interoperability is also a regulatory requirement (MDR Annex I §14, ONC rules, DiGA, EHDS).
 
 ## A. Clinical data standards

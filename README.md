@@ -2,13 +2,13 @@
 
 An open, vendor-neutral checklist for taking a **Flutter app on Firebase** from "works" to "can be placed on the market as medical software" in the **European Union** and the **United States**. It covers qualification and classification, MDR and FDA obligations, GDPR and HIPAA, the quality system and software lifecycle, cybersecurity, the Flutter client, the Firebase backend, data handling, interoperability, clinical safety, usability and accessibility, V&V, release and app stores, post-market surveillance, AI components, documentation and the people and contracts behind it all.
 
-**837 items** · 20 files · 8 templates · every item has an ID, a market tag and a priority.
+**837 items** · 20 files · 8 templates · every item has an ID, a market tag and a priority. **Polish version:** [README.pl.md](README.pl.md) and [`checklist/pl/`](checklist/pl/).
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 ![Items](https://img.shields.io/badge/items-837-blue)
 [![lint](https://github.com/BTL00/flutter-firebase-medical-checklist/actions/workflows/lint.yml/badge.svg)](https://github.com/BTL00/flutter-firebase-medical-checklist/actions/workflows/lint.yml)
 
-> **Not legal or regulatory advice.** This is an engineering checklist written from production work. It tells you what to check and where the requirement comes from; it does not replace a regulatory consultant, a Notified Body, a lawyer or a DPO. Regulations and Firebase change; verify dates and product lists against primary sources before relying on them.
+> **Not legal, regulatory or medical advice.** This is an engineering checklist written from production work. It tells you what to check and where the requirement comes from; it does not replace a regulatory consultant, a Notified Body, a lawyer, a clinician or a DPO. Ticking every box does not make a product compliant. Regulations and Firebase change; verify dates and product lists against primary sources before relying on them. Full text: [DISCLAIMER.md](DISCLAIMER.md).
 
 ## Who this is for
 
@@ -76,6 +76,10 @@ Written and maintained by [Piotr Bomba](https://piotrbomba.com), who builds Flut
 
 If this checklist saved you a week, a star and a link back are the licence fee.
 
+## Translations
+
+Polish: [README.pl.md](README.pl.md), [`checklist/pl/`](checklist/pl/). IDs are identical across languages, so `FB-36` means the same thing in every version; `tools/check-ids.sh` verifies that every translation has exactly the English set of IDs. Templates are in English only for now.
+
 ## Contributing and licence
 
-Issues and pull requests are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md). The content is licensed under [CC BY 4.0](LICENSE): use it, copy it into your QMS, translate it, as long as you keep the attribution.
+Issues and pull requests are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md). The content is licensed under [CC BY 4.0](LICENSE): use it, copy it into your QMS, translate it, as long as you keep the attribution. See [DISCLAIMER.md](DISCLAIMER.md) for the terms of use.

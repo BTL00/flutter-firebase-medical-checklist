@@ -1,5 +1,7 @@
 # 05 · Quality management, software lifecycle, risk and usability processes
 
+> Not legal, regulatory or medical advice. Verify dated statements against primary sources. See [DISCLAIMER.md](../DISCLAIMER.md).
+
 ISO 13485 / QMSR tell you to have processes. IEC 62304, ISO 14971 and IEC 62366-1 tell you what those processes must produce. This file checks that the processes exist and are actually used by the Flutter team, not kept in a binder.
 
 ## A. Quality management system (ISO 13485:2016 / QMSR)
