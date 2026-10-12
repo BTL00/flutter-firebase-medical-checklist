@@ -1,0 +1,19 @@
+name: lint
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  checklist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check item IDs and tags
+        run: bash tools/check-ids.sh
+      - name: Markdown lint
+        uses: DavidAnson/markdownlint-cli2-action@v19
+        with:
+          globs: |
+            **/*.md
+            !LICENSE

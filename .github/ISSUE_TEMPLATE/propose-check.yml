@@ -1,0 +1,50 @@
+name: Propose a check
+description: Suggest a new checklist item
+labels: [enhancement]
+body:
+  - type: dropdown
+    id: file
+    attributes:
+      label: Checklist file
+      options:
+        - 00 scope and qualification
+        - 01 regulatory EU
+        - 02 regulatory US
+        - 03 privacy GDPR
+        - 04 privacy US
+        - 05 quality management and lifecycle
+        - 06 cybersecurity
+        - 07 Flutter client
+        - 08 Firebase backend
+        - 09 data lifecycle
+        - 10 identity and access
+        - 11 interoperability
+        - 12 clinical safety and performance
+        - 13 usability, accessibility, localisation
+        - 14 verification and validation
+        - 15 release, DevOps, app stores
+        - 16 post-market monitoring
+        - 17 AI/ML components
+        - 18 documentation deliverables
+        - 19 organisation and people
+        - templates
+    validations:
+      required: true
+  - type: textarea
+    id: item
+    attributes:
+      label: Proposed item (one verifiable statement)
+      placeholder: "- [ ] **XX-nn** [ALL][M] ..."
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Primary source
+      description: Regulation article, standard clause, guidance title and year, or documentation URL.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it matters for a Flutter/Firebase medical app

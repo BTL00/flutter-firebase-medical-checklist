@@ -1,0 +1,28 @@
+name: Report an error
+description: An item is wrong, outdated or misleading
+labels: [bug]
+body:
+  - type: input
+    id: id
+    attributes:
+      label: Item ID
+      placeholder: "e.g. FB-20"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source that shows the correct state
+      description: Link to the regulation, guidance, standard or vendor documentation.
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: Suggested wording
