@@ -26,6 +26,7 @@ Use with your supervisory authority's template where one exists (CNIL PIA, ICO D
 For each risk: source, likelihood, severity, affected rights.
 
 Typical risks for this architecture:
+
 - Over-permissive Firestore/Storage rules exposing records.
 - Health data reaching analytics/crash SDKs or logs.
 - Re-identification through the pseudonymisation key service.

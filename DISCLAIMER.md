@@ -15,7 +15,7 @@ Licensed under [CC BY 4.0](LICENSE). Contributions are accepted on the same basi
 
 ---
 
-# Zastrzeżenie (PL)
+## Zastrzeżenie (PL)
 
 **Ta checklista nie jest poradą prawną, regulacyjną, medyczną ani z zakresu bezpieczeństwa.**
 

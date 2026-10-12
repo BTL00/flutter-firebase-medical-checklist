@@ -23,12 +23,12 @@ Linked change requests / problem reports with traceability to requirements and r
 
 ## Regulatory assessment
 
-- UDI-DI vs UDI-PI change: 
-- Significant change (NB notification / new submission / letter-to-file): 
-- Labeling / IFU updated (versions, languages): 
-- DPIA / HIPAA risk analysis impact: 
-- Clinical evaluation / performance impact: 
-- AI model version change and PCCP boundary: 
+- UDI-DI vs UDI-PI change:
+- Significant change (NB notification / new submission / letter-to-file):
+- Labeling / IFU updated (versions, languages):
+- DPIA / HIPAA risk analysis impact:
+- Clinical evaluation / performance impact:
+- AI model version change and PCCP boundary:
 
 ## Verification and validation
 
